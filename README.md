@@ -38,6 +38,7 @@ Explore the transformative power of 'Realtime Business Monthly Data Analysis' as
 3. Explore the data, dashboards, and insights within Power BI.
 
 ## Screenshots
+![bi](https://github.com/likhith1409/Real_time_Business_Monthly_Data_Analysis_with_Power-BI/assets/91020626/5274f029-5740-41c5-8845-0861feedb60f)
 
-![Realtime Business Analysis Dashboard](![bi](https://github.com/likhith1409/Real_time_Business_Monthly_Data_Analysis_with_Power-BI/assets/91020626/6e5e4036-af7a-4d6a-8b05-ee361d8633a5))
+
 
